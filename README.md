@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00F7FF&height=280&section=header&text=Mohit%20Choudhary&fontSize=50&fontAlignY=35&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=60&descSize=20&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Python+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Things"/>
+</p>
+
+
+
+
 # 💫 About Me:
 🪴 I'm currently learning
 
